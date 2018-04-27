@@ -19,3 +19,5 @@
 		- **user input** the content that user typed in
 		- **reference content** the reference content the user referred to
 		- **mistakes** *Levenshtein* distance between user input and the reference
+	4. Screenshot of the UI
+		- ![Screenshot unavailable](ui_1.png)
