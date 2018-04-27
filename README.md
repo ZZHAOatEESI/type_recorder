@@ -1,8 +1,11 @@
 # Type_recorder
-1. Dependencies:
+1. Contributors:
+	- Joe
+	- Lynn
+2. Dependencies:
 	- Python 3.6.4 :: Anaconda, Inc
 	- Dash (https://plot.ly/products/dash/)
-2. User Guide:
+3. User Guide:
 	1. What's Type_recorder
 		- Type_recorder is a web server that record users' speed and accuracy typing sample texts.
 	2. How to run
