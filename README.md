@@ -4,7 +4,7 @@
 	- Dash (https://plot.ly/products/dash/)
 2. User Guide:
 	1. What's Type_recorder
-		Type_recorder is a web server that record users' speed and accuracy typing sample texts.
+		- Type_recorder is a web server that record users' speed and accuracy typing sample texts.
 	2. How to run
 		1. Check Dependencies
 		2. Type in `python type_recorder.py` in terminal
