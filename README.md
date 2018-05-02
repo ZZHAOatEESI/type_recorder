@@ -22,11 +22,13 @@
 		- **user input** the content that user typed in
 		- **reference content** the reference content the user referred to
 		- **mistakes** *Levenshtein* distance between user input and the reference
-	4. UI Overview
+	4. If you want to add more practice sentence, please edit `type_recorder.py` file.
+	5. UI Overview
 		- ![Screenshot unavailable](ui_1.png)
 		- The box under the red text is the reference text
 		- The box under the green text is the user input region
 		- The timer will start to record the duration of typing when user starts to enter content
 		- The timer will stop when user click on **SUBMIT** button
+
 4. Note
 	- Feel free to (re)use my code in any way you wish but it is on your own risk and you are solely responsible for whatever happens then.
