@@ -35,7 +35,7 @@ app.layout = html.Div([
     html.Div(id='typing_indictor', children = '', style = dict(fontSize='15px', textAlign='center', display='none')),
           
     html.Button(id='submit-button', n_clicks=0, children='Submit'),
-],style = {'textAlign':'center'})
+],style = {'textAlign':'center', 'backgroundColor': '#111111'})
 
 @app.callback(Output(component_id="typing_indictor", component_property="children"),
               [Input('user_input', 'value')])
